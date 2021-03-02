@@ -1,0 +1,3 @@
+[submodule "repc"]
+	path = repc
+	url = https://github.com/akokubo/test_for_subfolder
